@@ -552,6 +552,14 @@ figure.align-center {
     color: #7E7E8A;
     line-height: 30px; }
 
+  .about_header ul {
+    margin: 0;
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    color: #7E7E8A;
+    line-height: 30px;
+    text-align: left; }    
+
 .about_content {
   display: flex;
   align-items: center;
